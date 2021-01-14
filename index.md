@@ -5,7 +5,7 @@
     <link href="style.css" rel="stylesheet" type="text/css" />
   </head>
   <body>
-		<p id="resultado">Codigo de barras</p>
+		<p id="resultado">Codigo de barras:</p>
 		<p>Camara movil o pc</p>
 		<div id="contenedor"></div>
 		<!-- Cargamos Quagga y luego nuestro script -->
